@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VirajMathpati7
-- 👀 I’m interested in ethical hacking, penetration testing, bug bounty.
+- 👀 Interested in ethical hacking, penetration testing, bug bounty.
 - 🌱 and currently pursuing B.tech from MGM college of engineering,nanded.
 
 <!---
